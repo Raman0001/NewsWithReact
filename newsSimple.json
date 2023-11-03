@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Melanie Zanona, Annie Grayer",
+            "title": "Impeachment and government shutdown threats loom over House’s return - CNN",
+            "description": "Speaker Kevin McCarthy returns to Washington this week confronting a twin set of challenges: avoiding a costly government shutdown and addressing growing calls on the right to impeach President Joe Biden, despite resistance from the party’s moderates.",
+            "url": "https://www.cnn.com/2023/09/11/politics/impeachment-government-shutdown-house-return/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230910165933-01-impeachment-government-shutdown-house-return-mccarthy.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-11T14:12:00Z",
+            "content": "Speaker Kevin McCarthy returns to Washington this week confronting a twin set of challenges: avoiding a costly government shutdown and addressing growing calls on the right to impeach President Joe B… [+12254 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ashley Capoot",
+            "title": "Sundar Pichai says Google and Nvidia will still be working together 10 years from now - CNBC",
+            "description": "Google CEO says relationship with chipmaker Nvidia is here to stay",
+            "url": "https://www.cnbc.com/2023/09/11/sundar-pichai-says-google-and-nvidia-will-still-be-working-together-10-years-from-now.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107183746-1674657377896-gettyimages-1241203566-CEO_SUMMIT_AMERICAS.jpeg?v=1694441156&w=1920&h=1080",
+            "publishedAt": "2023-09-11T14:05:56Z",
+            "content": "Sundar Pichai said Google's longstanding relationship with chipmaker Nvidia isn't going to change any time soon in fact, he expects it to continue over the next 10 years. \r\nIn an interview Wired publ… [+1616 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Anders Hagstrom",
+            "title": "Bill Gates says Elon Musk was 'super mean to me' after Tesla stock feud - Fox Business",
+            "description": "Billionaire Bill Gates complained that X owner Elon Musk was \"super mean\" to him following a spat between the two over Tesla stock last year.",
+            "url": "https://www.foxbusiness.com/business-leaders/bill-gates-says-elon-musk-super-mean-me-after-tesla-stock-feud",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/07/0/0/elon-musk-2.jpg?ve=1&tl=1",
+            "publishedAt": "2023-09-11T13:38:23Z",
+            "content": "Billionaire Elon Musk was \"super mean\" to fellow billionaire Bill Gates after the Microsoft co-founder purchased a short position on Tesla stock, Gates says.\r\nGates made the comment to author Walter … [+1885 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Chris Isidore",
+            "title": "The 4 key reasons why the UAW could strike GM, Ford and Stellantis this week - CNN",
+            "description": "Time is running short to avoid a strike at America’s three unionized automakers, and the distance between the United Auto Workers union and the companies remains large.",
+            "url": "https://www.cnn.com/2023/09/11/business/automakers-strike-negotiations-uaw/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230911102242-united-auto-workers-rally-0904.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-11T13:30:00Z",
+            "content": "Time is running short to avoid a strike at Americas three unionized automakers, and the distance between the United Auto Workers union and the companies remains large.\r\nThe contracts with the three a… [+9314 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "The Associated Press",
+            "title": "Several workers injured in explosion at Archer Daniels Midland facility in Illinois - NBC News",
+            "description": "An explosion at an Archer Daniels Midland facility in Illinois injured several employees and sent a tower of smoke into the air Sunday evening.",
+            "url": "https://www.nbcnews.com/news/us-news/several-workers-injured-explosion-archer-daniels-midland-facility-illi-rcna104338",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2023-09/230911-Archer-Daniels-Midland-explosion-al-0744-54f29c.jpg",
+            "publishedAt": "2023-09-11T13:10:17Z",
+            "content": "DECATUR, Ill. An explosion at an Archer Daniels Midland facility in Illinois injured several employees and sent a tower of smoke into the air Sunday evening.\r\nThe explosion occurred shortly after 7 p… [+806 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Lauren Thomas, Jesse Newman",
+            "title": "J.M. Smucker to Buy Twinkies Maker Hostess for $4.6 Billion - The Wall Street Journal",
+            "description": "Hostess shares soar as jelly maker agrees to pay $34.25 a share in cash and stock",
+            "url": "https://www.wsj.com/business/deals/jm-smucker-buy-hostess-twinkies-maker-6924a82",
+            "urlToImage": "https://images.wsj.net/im-849679/social",
+            "publishedAt": "2023-09-11T13:08:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Naledi Ushe",
+            "title": "Drew Barrymore's talk show to return amid strike; WGA plans to picket outside studio - USA TODAY",
+            "description": "\"I own this choice,\" Drew Barrymore said of her decision to resume filming her daytime talk show amid the Writers Guild of America strikes.",
+            "url": "https://www.usatoday.com/story/entertainment/tv/2023/09/11/drew-barrymore-talk-show-return-amid-writers-strike/70820956007/",
+            "urlToImage": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/09/11/USAT/70821301007-look-03-241-v-1.jpg?crop=7538,4259,x0,y0&width=3200&height=1809&format=pjpg&auto=webp",
+            "publishedAt": "2023-09-11T12:57:50Z",
+            "content": "Writers are picketing at \"The Drew Barrymore Show\" lot on Monday to protest the show's return amid the ongoing writers strike.\r\nDrew Barrymore announced the return of her namesake talk show on Sunday… [+1770 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "Nick Turner",
+            "title": "Apple's iPhone 15 Launch: 5 Charts Show What's at Stake - Bloomberg",
+            "description": "Apple Inc.’s annual iPhone unveiling is always its most momentous time of the year — a chance to impress consumers with the company’s latest model and set up the holiday selling season.",
+            "url": "https://www.bloomberg.com/news/articles/2023-09-11/apple-s-high-stakes-iphone-15-launch-explained-in-five-charts",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iBpO.fso5NVc/v1/1200x800.jpg",
+            "publishedAt": "2023-09-11T12:43:05Z",
+            "content": "Apple Inc.s annual iPhone unveiling is always its most momentous time of the year a chance to impress consumers with the companys latest model and set up the holiday selling season. \r\nBut Apple has m… [+288 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Watch live: Harris attends 9/11 memorial service in New York - The Hill",
+            "description": null,
+            "url": "https://families.google.com/service-restricted",
+            "urlToImage": null,
+            "publishedAt": "2023-09-11T12:31:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Veronica Stracqualursi, Aaron Pellish",
+            "title": "Trump and DeSantis both attend Iowa v. Iowa State rivalry game - CNN",
+            "description": "Republican presidential candidates Ron DeSantis and Donald Trump both courted football fans at the Iowa vs. Iowa State game Saturday.",
+            "url": "https://www.cnn.com/2023/09/10/politics/trump-desantis-iowa-football/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230909163050-01-trump-iowa-state-090923.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-11T12:22:00Z",
+            "content": "On the field at Jack Trice Stadium in Ames, Iowa, on Saturday, the long-standing football rivalry between the Iowa State Cyclones and the Iowa Hawkeyes was just kicking off. \r\nOff the field, a high-p… [+3408 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Jake Kwon, Gawon Bae, Jessie Yeung, Brad Lendon",
+            "title": "Kim Jong Un to visit Russia at Vladimir Putin’s invitation - CNN",
+            "description": "Kim Jong Un will travel to Russia at the invitation of his Russian counterpart, Vladimir Putin, Pyongyang and Moscow said on Monday, amid warnings from the United States that the two leaders could strike an arms deal.",
+            "url": "https://www.cnn.com/2023/09/11/asia/kim-jong-un-north-korea-russia-meeting-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230911094721-kim-jong-un-file-090823.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-09-11T12:10:00Z",
+            "content": "Kim Jong Un will travel to Russia at the invitation of his Russian counterpart, Vladimir Putin, Pyongyang and Moscow said on Monday, amid warnings from the United States that the two leaders could st… [+2865 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lauren Feiner",
+            "title": "What to expect when Google faces the DOJ in the first major tech monopoly trial in decades - CNBC",
+            "description": "How to expect the months-long trial to play out and the key points of argument in the case.",
+            "url": "https://www.cnbc.com/2023/09/11/google-to-face-doj-in-the-first-major-tech-monopoly-trial-in-decades.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107296360-1694007934659-Untitled-1.jpg?v=1694434064&w=1920&h=1080",
+            "publishedAt": "2023-09-11T12:07:44Z",
+            "content": "Google CEO, Sundar Pichai (: and Jonathan Kanter, assistant attorney general of antitrust for the US Department of Justice (R).\r\nThe biggest tech monopoly trial since the Department of Justice challe… [+12021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Orlando Sentinel"
+            },
+            "author": "Richard Tribou",
+            "title": "Hurricane Lee remains Category 3 as hurricane center tracks TS Margot, 2 more systems - Orlando Sentinel",
+            "description": "Hurricane Lee has grown back into a Category 3 major hurricane while the National Hurricane Center keeps tabs on Tropical Storm Margot and two more systems.",
+            "url": "http://www.orlandosentinel.com/2023/09/11/hurricane-lee-remains-category-3-as-hurricane-center-tracks-ts-margot-2-more-systems/",
+            "urlToImage": "https://www.orlandosentinel.com/wp-content/uploads/2023/09/two_atl_7d0-2023-09-11T073643.182.png?w=900&h=665",
+            "publishedAt": "2023-09-11T12:06:00Z",
+            "content": "Hurricane Lee has grown back into a Category 3 major hurricane expected to gain some strength this week in the Atlantic while the National Hurricane Center keeps tabs on Tropical Storm Margot and two… [+4919 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "NFL Week 1 stock up, stock down: Dolphins' Tua Tagovailoa, 49ers' Brock Purdy are back at it - CBS Sports",
+            "description": "Who gained (or lost) ground to start the 2023 season?",
+            "url": "https://www.cbssports.com/nfl/news/nfl-week-1-stock-up-stock-down-dolphins-tua-tagovailoa-49ers-brock-purdy-are-back-at-it/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/09/11/8a33dee3-2234-4267-bc2b-c5f7429e92df/thumbnail/1200x675/d88b8885ce697ed25ff823b8c3b6f1db/gettyimages-1672596228.jpg",
+            "publishedAt": "2023-09-11T12:03:00Z",
+            "content": "Almost a full week of the 2023 NFL season is in the books. We've already encountered some big surprises, like the Bengals and Chiefs struggling offensively in opening defeats, as well as thrilling sh… [+3792 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space.com"
+            },
+            "author": "Josh Dinner",
+            "title": "Japan's SLIM moon lander is carrying this transforming ball robot (it's not BB-8) - Space.com",
+            "description": "The little rolly-polly probe will hobble and wheel itself around to take pictures of the SLIM lander on the moon.",
+            "url": "https://www.space.com/jaxa-slim-moon-lander-lev-2-ball-robot",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/dxcknf7eyiCvRjk5tnXECK-1200-80.png",
+            "publishedAt": "2023-09-11T12:00:01Z",
+            "content": "Japan's recent launch of the SLIM moon lander included a tiny lunar explorer inspired by a children's toy. \r\nThe Lunar Excursion Vehicle 2 (LEV-2) is a little metal sphere, not much larger than a ten… [+2837 chars]"
+        },
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "David Pierce",
+            "title": "The iPhone 15 may be getting a USB-C port — but wireless is what’s next - The Verge",
+            "description": "Apple is likely to announce a new smartphone with a USB-C port instead of the standard Lightning connector. It will be an improvement, but in Apple’s mind, the real future is MagSafe and wireless.",
+            "url": "https://www.theverge.com/23864263/iphone-usb-c-lightning-wireless-charging-apple",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/hroTLYwaLJcdmMoQWilfuDcEznw=/0x0:2040x1360/1200x628/filters:focal(1128x701:1129x702)/cdn.vox-cdn.com/uploads/chorus_asset/file/16294979/akrales_190522_3440_0029.jpg",
+            "publishedAt": "2023-09-11T12:00:00Z",
+            "content": "Apples Lightning connector was the first great port  and USB-C might be the last\r\nApples Lightning connector was the first great port  and USB-C might be the last\r\n / Its all but certain that the nex… [+10805 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Brandon Goldner",
+            "title": "Danelo Cavalcante update: Search for Chester County Prison escaped inmate nears 2 weeks - CBS News",
+            "description": "Chester County Prison escaped inmate Danelo Cavalcante has a new appearance as law enforcement is searching in a new area as the manhunt nears the two-week mark.",
+            "url": "https://www.cbsnews.com/philadelphia/news/danelo-cavalcante-update-chester-county-prison-escaped-inmate-pennsylvania/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/09/11/9b4106e6-d423-4280-9021-139a5c2a35cf/thumbnail/1200x630/110e93551b50e688dca64574d6b5bc2a/danelo-cavalcante-chester-county-prison-escape.jpg?v=181d27d1e918a6408b48ea2e220df310",
+            "publishedAt": "2023-09-11T11:39:26Z",
+            "content": "GLENMOORE, Pa. (CBS) -- Chester County Prison escapee Danelo Cavalcante has a new appearance, and officials are searching in a new area as the manhunt nears the two-week mark.\r\nLaw enforcement leadin… [+2459 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "Rachel Treisman",
+            "title": "Up First briefing: Morocco earthquake; new COVID boosters; a primer on prenups - NPR",
+            "description": "More than 2,000 are dead after a 6.8 magnitude quake struck near Marrakech on Friday. The FDA could approve new COVID boosters any day now. What to know if you're considering signing a prenup.",
+            "url": "https://www.npr.org/2023/09/11/1198730218/up-first-briefing-morocco-earthquake-new-covid-boosters-a-primer-on-prenups",
+            "urlToImage": "https://media.npr.org/assets/img/2023/09/11/gettyimages-1653682940_wide-79ad6c0c8faf00da698d39bfc3feb589eee7a771-s1400-c100.jpg",
+            "publishedAt": "2023-09-11T11:18:37Z",
+            "content": "Good morning. You're reading the Up First newsletter. Subscribe here to get it delivered to your inbox, and listen to the Up First podcast for all the news you need to start your day.\r\nToday's top st… [+5046 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Live Science"
+            },
+            "author": "Ethan Freedman",
+            "title": "These prehistoric marine reptiles evolved long necks by adding more vertebrae - Livescience.com",
+            "description": "Some of these aquatic reptiles of the dinosaur era had dozens of individual bones running down their long necks.",
+            "url": "https://www.livescience.com/animals/reptiles/ancient-sea-monsters-grew-their-long-necks-super-fast-after-great-dying-by-adding-more-vertebrae",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/eqkjEreRZjmsBFrP8GnvrU-1200-80.jpg",
+            "publishedAt": "2023-09-11T11:00:20Z",
+            "content": "Millions of years ago, as dinosaur giants were stomping around on land, other giant reptiles were dominating the oceans — and some of them, like plesiosaurs and similar animals, grew  extremely long,… [+3325 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Boone Ashworth",
+            "title": "How to Watch Apple's iPhone 15 Launch, and What to Expect - WIRED",
+            "description": "A new iPhone is coming Tuesday. Here’s what you should know ahead of time, and how to tune in to watch.",
+            "url": "https://www.wired.com/story/apple-iphone-15-launch-how-to-watch-what-to-expect/",
+            "urlToImage": "https://media.wired.com/photos/64fb5e64d82792c821d19b6c/191:100/w_1280,c_limit/How-to-Watch-Apple%E2%80%99s-iPhone-15-Launch,-and-What-to-Expect-Gear-GettyImages-1258464808.jpg",
+            "publishedAt": "2023-09-11T11:00:00Z",
+            "content": "It's Apple season once again. We can always count on Apple to announce the newest iPhone model in September. This years event is almost upon us, and the company is expected to unveil its lineup of iP… [+3486 chars]"
+        }
+    ]
+}
