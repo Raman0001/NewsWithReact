@@ -6,6 +6,7 @@ import { Routes, Route } from "react-router-dom";
 
 function App() {
   const pageSize = 8;
+  // use your api key for this and create and .env file
   const apiKey = process.env.REACT_APP_NEWS_API;
   const [progress, setProgress] = useState(0)
   return (
